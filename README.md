@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Do check out my other repository where I share all my previous interview for full time role in companies.
+
+https://github.com/Pd-needs-job

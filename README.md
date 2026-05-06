@@ -20,4 +20,3 @@ Do check out my other repository where I share all my previous interview experie
 https://github.com/Pd-needs-job
 
 
-![](https://komarev.com/ghpvc/?username=prakharpd)

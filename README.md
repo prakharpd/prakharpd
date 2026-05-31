@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Do check out my other repository where I share all my previous interview experience for full time roles in DS/ AI/ML in various companies like Amex(Final Round) etc.
+Do check out my other repository where I share all my previous interview experience for full time roles in DS/ AI/ML in various companies like American Express(Final Round) etc.
 
 https://github.com/Pd-needs-job
 

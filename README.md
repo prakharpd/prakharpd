@@ -18,8 +18,3 @@ Here are some ideas to get you started:
 Do check out my other repository where I share all my previous interview experience for full time roles in DS/ AI/ML in various companies like American Express(Final Round) etc.
 
 https://github.com/Pd-needs-job
-
-
-
-31/5/26
-Apart from that there is small bug in Github in which Jupyternotbook previews are not visible. So in many of my repos you have to download it to look that file locally.

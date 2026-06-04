@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Do check out my other repository where I share all my previous interview experience for full time roles in DS/ AI/ML in various companies like American Express(Final Round) etc.
-
-https://github.com/Pd-needs-job
+Actively looking for an entry level role as a Data Scientist, Machine Learning Engineer, AI Engineer.
+LINK: https://drive.google.com/file/d/1_-nrkP8JyWia9rHviS9-KH-Bwnq-aeXS/view?usp=sharing

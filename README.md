@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 Actively looking for an entry level role as a Data Scientist, Machine Learning Engineer, AI Engineer.
-LINK: https://drive.google.com/file/d/1_-nrkP8JyWia9rHviS9-KH-Bwnq-aeXS/view?usp=sharing
+Resume Link: https://drive.google.com/file/d/1_-nrkP8JyWia9rHviS9-KH-Bwnq-aeXS/view?usp=sharing

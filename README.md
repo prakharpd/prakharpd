@@ -9,4 +9,4 @@
 </p>
 
 Actively looking for an entry level role as a Data Scientist, Machine Learning Engineer, AI Engineer.
-- Resume Link: https://drive.google.com/file/d/1jPXEtsD2pCHj8C9ALseRXEDT0bDPQrq7/view?usp=drive_link
+- Resume Link: https://drive.google.com/file/d/1hkPN8KV_aRNqWxMHV_eJaK9_36GdhAHz/view?usp=sharing

@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 Actively looking for an entry level role as a Data Scientist, Machine Learning Engineer, AI Engineer.

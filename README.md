@@ -9,4 +9,5 @@
 </p>
 
 Actively looking for an entry level role as a Agentic AI Engineer, Machine Learning Engineer, AI Engineer, Data Analyst, Data Scientist.
+My coding repo from 2021: https://github.com/Pdportfolio/2021-2025
 

@@ -8,5 +8,5 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
-Actively looking for an entry level role as a Machine Learning Engineer, AI Engineer, Data Analyst, Data Scientist.
+Actively looking for an entry level role as a Agentic AI Engineer, Machine Learning Engineer, AI Engineer, Data Analyst, Data Scientist.
 

@@ -8,5 +8,5 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
-Do check out my coding repo from 2021: https://github.com/Pdportfolio/2021-2025
+Do check out my past projects, coding repo from 2021: https://github.com/Pdportfolio/2021-2025
 

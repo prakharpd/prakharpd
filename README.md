@@ -8,6 +8,5 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </p>
 
-Actively looking for an entry level role as a Agentic AI Engineer, Machine Learning Engineer, AI Engineer, Data Analyst, Data Scientist.
-My coding repo from 2021: https://github.com/Pdportfolio/2021-2025
+Do check out my coding repo from 2021: https://github.com/Pdportfolio/2021-2025
 
